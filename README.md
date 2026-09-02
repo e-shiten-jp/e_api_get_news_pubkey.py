@@ -40,12 +40,10 @@ APIの基本設計について
 	
 		
 
-
-
 １）動作テストを実行した環境
 
 	Python 3.13.5 / debian13 
-	APIバージョン： v4r9
+	APIバージョン： v4r10
 
 ２）事前に立花証券ｅ支店に口座開設が必要です。
 
@@ -77,7 +75,7 @@ APIの基本設計について
  
 	 ~/e_api/file_url_info.txtの内容例：
 	 {
-	     "sUrl": "https://demo-kabuka.e-shiten.jp/e_api_v4r9/",
+	     "sUrl": "https://demo-kabuka.e-shiten.jp/e_api_v4r10/",
 	     "sJsonOfmt": "5"
 	 }
 
